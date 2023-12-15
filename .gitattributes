@@ -1,5 +1,1 @@
-*.java linguist-detectable=true
-*.html linguist-detectable
-*.css linguist-detectable
-*.js linguist-detectable
-*.sql linguist-detectable
+*.java linguist-language=Java
